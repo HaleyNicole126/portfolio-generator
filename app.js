@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generatePage = require('./src/page-template.js');
@@ -129,6 +128,4 @@ promptUser()
 
 // printProfileData(profileDataArgs);
 
-=======
->>>>>>> 2aed312e6827600d931df9b5c23769a578496490
 

@@ -1,4 +1,4 @@
-const fs = requrie('fs');
+const fs = require('fs');
 
 const writeFile = fileContent => {
     return new Promise((resolve, reject) => {
